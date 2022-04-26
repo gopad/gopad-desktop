@@ -1,7 +1,7 @@
 ---
 repository:
   name: gopad-desktop
-  description: "Gopad: Desktop"
+  description: "Gopad: Desktop client"
   homepage: https://gopad.eu
   topics: gopad, etherpad, client, desktop
 
